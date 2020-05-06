@@ -1,4 +1,4 @@
-# sentiment-eval
+# Sentiment analysis
 
 Project for course Deep learning in NLP by DeepPavlov.
 
